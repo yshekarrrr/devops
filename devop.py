@@ -1,5 +1,5 @@
 def hello():
-    print("Hello welcome to the world of devops Hackthon Test")
+    print("Hello welcome to the world of devops Hackthon")
 
 
 if __name__ == '__main__':
